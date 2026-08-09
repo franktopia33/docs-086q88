@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-bygkii.hartawin.online/sitemap.xml
